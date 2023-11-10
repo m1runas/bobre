@@ -1,0 +1,54 @@
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\чзхноваялаба.exe.config
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\чзхноваялаба.exe
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\чзхноваялаба.pdb
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\EntityFramework.dll
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\EntityFramework.xml
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.csproj.AssemblyReference.cache
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\AddEditAgent.g.cs
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\AgentPage.g.cs
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\App.g.cs
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба_Content.g.cs
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба_MarkupCompile.cache
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба_MarkupCompile.lref
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\App.baml
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\AddEditAgent.baml
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\AgentPage.baml
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.g.resources
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.Properties.Resources.resources
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.csproj.GenerateResource.cache
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.csproj.CopyComplete
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.exe
+D:\3 курс\ИСП 3121\Иванов\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.pdb
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\AddEditAgent.g.cs
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\AgentPage.g.cs
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\App.g.cs
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба_Content.g.cs
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба_MarkupCompile.cache
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба_MarkupCompile.lref
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.exe
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.pdb
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\чзхноваялаба.exe.config
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\чзхноваялаба.exe
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\чзхноваялаба.pdb
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\EntityFramework.dll
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\EntityFramework.xml
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\App.baml
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\AddEditAgent.baml
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\AgentPage.baml
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.g.resources
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.Properties.Resources.resources
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.csproj.GenerateResource.cache
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.csproj.CopyComplete
+D:\3 курс\ИСП 3121\Иванов\2 pro\2_project\chezah\чзхноваялаба\чзхноваялаба\obj\Debug\чзхноваялаба.csproj.AssemblyReference.cache
